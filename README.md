@@ -53,7 +53,7 @@ https://github.com/Tarcilalves/AluraPlus/assets/107896645/b4c3e5a0-6e0a-4ee7-815
 # Acesso ao projeto
 
 
-[Clique aqui para visitar o site](https://tarcilalves.github.io/AluraBook/)
+[Clique aqui para visitar o site][(https://tarcilalves.github.io/AluraBook/)](https://tarcilalves.github.io/AluraPlus/)
 
 
 # Tecnologias utilizadas
